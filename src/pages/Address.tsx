@@ -1,5 +1,3 @@
-import React from "react";
-import { useNavigate } from "react-router";
 import Swal from "sweetalert2";
 
 const Address = () => {

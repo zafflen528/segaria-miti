@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import Checkbox from "../components/Checkbox";
 import { useNavigate } from "react-router";
